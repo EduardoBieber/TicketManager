@@ -1,0 +1,26 @@
+
+---//---//-- CRIAÇÃO DA TABELA funcionarios NO DB --//---//---
+
+CREATE TABLE IF NOT EXISTS funcionarios (
+    id INT NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
+    situacao ENUM('Ativo', 'Inativo') NOT NULL,
+    data_admissao DATE NOT NULL,
+    data_ult_alteracao TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    PRIMARY KEY (id),
+    UNIQUE KEY (cpf)
+);
+
+
+---//---//-- CRIAÇÃO DA TABELA tickets NO DB --//---//---
+
+-- Criar a tabela 'tickets'
+CREATE TABLE IF NOT EXISTS tickets (
+    id INT NOT NULL AUTO_INCREMENT,
+    id_funcionario INT NOT NULL,
+    qnt_entregue INT NOT NULL,
+    data_entrega DATE NOT NULL,
+    PRIMARY KEY (id),
+    FOREIGN KEY (id_funcionario) REFERENCES funcionarios(id) ON DELETE CASCADE
+);
