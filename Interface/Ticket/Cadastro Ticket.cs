@@ -42,7 +42,7 @@ namespace Interface.Ticket
 
         private void txtBuscarNome_TextChanged(object sender, EventArgs e)
         {
-            edicao.BuscarNome(txtBuscarNome.Text);
+            gerenciarTickets.BuscarTicketPorNome(txtBuscarNome.Text);
         }
     }
 }

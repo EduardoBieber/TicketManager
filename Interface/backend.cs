@@ -49,6 +49,8 @@ namespace Interface
         }
     }
 
+
+
     public class Validacoes
     {
         public static bool VerificarExistencia(string cpf)
@@ -285,11 +287,16 @@ namespace Interface
 
     public class GerenciarTickets
     {
+
+  
         private DataGridView grid;
         public string Id { get; set; }
         public string Funcionario { get; set; }
         public string Situacao { get; set; }
         public string DataEntrega { get; set; }
+        public DateTime dataInicial { get; set; }
+        public DateTime dataFinal { get; set; }
+        public string nomeFuncionario { get; set; }
 
 
         public GerenciarTickets(DataGridView grid)
@@ -375,11 +382,32 @@ namespace Interface
             }
         }
 
-        public string RecuperarSituacao()
+        public void BuscarTicketPorNome(string nome)
         {
-            string situacao = grid.CurrentRow.Cells[3].Value.ToString();
-            return situacao;
+            Conexao conexao = new Conexao();
+            string sql = "SELECT * FROM tickets WHERE funcionario_destino LIKE @nome ORDER BY data_entrega ASC";
+
+            try
+            {
+                conexao.Conectar();
+                MySqlCommand cmd = new MySqlCommand(sql, conexao.con);
+                cmd.Parameters.AddWithValue("@nome", "%" + nome + "%");
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                this.grid.DataSource = dt;
+                FormatarDG();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro ao buscar tickets por nome: " + ex.Message);
+            }
+            finally
+            {
+                conexao.Desconectar();
+            }
         }
+
 
         public Tickets RecuperarID()
         {
@@ -422,13 +450,38 @@ namespace Interface
             }
         }
 
+ 
+
+
+        public void FiltrarRelatorio(string nomeFuncionario, DateTime dataInicial, DateTime dataFinal)
+        {
+            Conexao conexao = new Conexao();
+            string sql = "SELECT funcionario_destino, id, cpf, data_entrega, qnt_entregue FROM tickets WHERE funcionario_destino = @nome AND data_entrega BETWEEN @dataInicial AND @dataFinal";
+            try
+            {
+                conexao.Conectar();
+                MySqlCommand cmd = new MySqlCommand(sql, conexao.con);
+                cmd.Parameters.AddWithValue("@nome", nomeFuncionario);
+                cmd.Parameters.AddWithValue("@dataInicial", dataInicial);
+                cmd.Parameters.AddWithValue("@dataFinal", dataFinal);
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                int totalTickets = dt.AsEnumerable().Sum(row => row.Field<int>("qnt_entregue"));
+                dt.Rows.Add("Total", "", "", "", totalTickets);
+
+                grid.DataSource = dt;
+                FormatarDG();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Erro ao gerar relatório: " + ex.Message);
+            }
+            finally
+            {
+                conexao.Desconectar();
+            }
+        }
     }
-
-
-
-
 }
-
-   
-
-

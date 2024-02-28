@@ -1,77 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\",
+  "WorkspaceRootPath": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|c:\\users\\55459\\source\\repos\\solucaoticketmanager\\interface\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\relatorios\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|c:\\users\\55459\\documents\\projeto\\solucaoticketmanager\\interface\\relatorios\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\frmresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\frmresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\frmresultado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmresultado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\relatorios\\frmrelatorio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmrelatorio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\relatorios\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\cadastro ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\ticket\\qtdticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\emitir ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\cadastros\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\relatorios\\frmrelatorio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\relatorios\\frmrelatorio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\edicao ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\ticket\\qtdticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\ticket\\qtdticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\cadastros\\novo cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\cadastros\\novo cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\cadastros\\novo cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3606D2D6-828A-4A23-B63C-0DBE1BBB7335}|Interface\\Interface.csproj|solutionrelative:interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -82,52 +102,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Menu.cs",
               "RelativeDocumentMoniker": "Interface\\Menu.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Menu.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Menu.cs",
               "RelativeToolTip": "Interface\\Menu.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAD4v0YAAAAYAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwBwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T05:36:02.204Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "FrmRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs",
+              "RelativeToolTip": "Interface\\Relatorios\\FrmRelatorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:14:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmResultado.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.cs",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmResultado.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.cs",
+              "RelativeToolTip": "Interface\\Relatorios\\FrmResultado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvx4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:04:56.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRelatorio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs [Design]",
+              "RelativeToolTip": "Interface\\Relatorios\\FrmRelatorio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:18:56.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmResultado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.cs",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmResultado.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.cs [Design]",
+              "RelativeToolTip": "Interface\\Relatorios\\FrmResultado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:30:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "backend.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\backend.cs",
+              "RelativeDocumentMoniker": "Interface\\backend.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\backend.cs",
+              "RelativeToolTip": "Interface\\backend.cs",
+              "ViewState": "AQIAAMEBAAAAAAAAAAAqwOcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:49:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmResultado.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.Designer.cs",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmResultado.Designer.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmResultado.Designer.cs",
+              "RelativeToolTip": "Interface\\Relatorios\\FrmResultado.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:11:29.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report1.rdlc [Criar]",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Interface\\Relatorios\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\Report1.rdlc [Criar]",
+              "RelativeToolTip": "Interface\\Relatorios\\Report1.rdlc [Criar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-02-28T05:10:25.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cadastro Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs",
+              "RelativeDocumentMoniker": "Interface\\Ticket\\Cadastro Ticket.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs",
+              "RelativeToolTip": "Interface\\Ticket\\Cadastro Ticket.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:08:12.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro Ticket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs",
+              "RelativeDocumentMoniker": "Interface\\Ticket\\Cadastro Ticket.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs [Design]",
+              "RelativeToolTip": "Interface\\Ticket\\Cadastro Ticket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:07:33.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Emitir Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
               "RelativeDocumentMoniker": "Interface\\Ticket\\Emitir Ticket.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
               "RelativeToolTip": "Interface\\Ticket\\Emitir Ticket.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwBIAAAAmAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwCMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T06:21:37.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmRelatorio.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs",
-              "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmRelatorio.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.cs",
-              "RelativeToolTip": "Interface\\Relatorios\\FrmRelatorio.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvwEAAAAhAAAA",
+              "DocumentIndex": 10,
+              "Title": "Edicao Ticket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
+              "RelativeDocumentMoniker": "Interface\\Ticket\\Edicao Ticket.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs [Design]",
+              "RelativeToolTip": "Interface\\Ticket\\Edicao Ticket.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T06:14:39.875Z"
+              "WhenOpened": "2024-02-28T03:02:27.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Funcionarios.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
               "RelativeDocumentMoniker": "Interface\\Cadastros\\Funcionarios.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
               "RelativeToolTip": "Interface\\Cadastros\\Funcionarios.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwCEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,36 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "backend.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\backend.cs",
-              "RelativeDocumentMoniker": "Interface\\backend.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\backend.cs",
-              "RelativeToolTip": "Interface\\backend.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T21:49:05.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cadastro Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs",
-              "RelativeDocumentMoniker": "Interface\\Ticket\\Cadastro Ticket.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Cadastro Ticket.cs",
-              "RelativeToolTip": "Interface\\Ticket\\Cadastro Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T16:08:12.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Conexao.cs",
               "RelativeDocumentMoniker": "Interface\\Conexao.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Conexao.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Conexao.cs",
               "RelativeToolTip": "Interface\\Conexao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,33 +276,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Emitir Ticket.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs",
               "RelativeDocumentMoniker": "Interface\\Ticket\\Emitir Ticket.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs [Design]",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Emitir Ticket.cs [Design]",
               "RelativeToolTip": "Interface\\Ticket\\Emitir Ticket.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T06:21:29.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Menu.cs",
               "RelativeDocumentMoniker": "Interface\\Menu.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Menu.cs [Design]",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Menu.cs [Design]",
               "RelativeToolTip": "Interface\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T06:17:00.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "FrmRelatorio.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.Designer.cs",
               "RelativeDocumentMoniker": "Interface\\Relatorios\\FrmRelatorio.Designer.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.Designer.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Relatorios\\FrmRelatorio.Designer.cs",
               "RelativeToolTip": "Interface\\Relatorios\\FrmRelatorio.Designer.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAD4v2gAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,33 +310,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Funcionarios.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs",
               "RelativeDocumentMoniker": "Interface\\Cadastros\\Funcionarios.cs",
               "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs [Design]",
-              "RelativeToolTip": "Interface\\Cadastros\\Funcionarios.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Funcionarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T23:26:45.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Report1.rdlc [Criar]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\Report1.rdlc",
-              "RelativeDocumentMoniker": "Interface\\Relatorios\\Report1.rdlc",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Relatorios\\Report1.rdlc [Criar]",
-              "RelativeToolTip": "Interface\\Relatorios\\Report1.rdlc [Criar]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2024-02-28T05:10:25.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Edicao Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
               "RelativeDocumentMoniker": "Interface\\Ticket\\Edicao Ticket.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
               "RelativeToolTip": "Interface\\Ticket\\Edicao Ticket.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAswFEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,33 +333,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edicao Ticket.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs",
-              "RelativeDocumentMoniker": "Interface\\Ticket\\Edicao Ticket.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\Edicao Ticket.cs [Design]",
-              "RelativeToolTip": "Interface\\Ticket\\Edicao Ticket.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T03:02:27.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "QtdTicket.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\QtdTicket.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Ticket\\QtdTicket.cs",
               "RelativeDocumentMoniker": "Interface\\Ticket\\QtdTicket.cs",
               "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\QtdTicket.cs [Design]",
-              "RelativeToolTip": "Interface\\Ticket\\QtdTicket.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SolucaoTicketManager\\Interface\\Ticket\\QtdTicket.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T04:21:23.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Novo Cadastro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Novo Cadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Cadastros\\Novo Cadastro.Designer.cs",
               "RelativeDocumentMoniker": "Interface\\Cadastros\\Novo Cadastro.Designer.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Cadastros\\Novo Cadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Cadastros\\Novo Cadastro.Designer.cs",
               "RelativeToolTip": "Interface\\Cadastros\\Novo Cadastro.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Login.cs",
               "RelativeDocumentMoniker": "Interface\\Login.cs",
-              "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Login.cs",
+              "ToolTip": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Login.cs",
               "RelativeToolTip": "Interface\\Login.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAkwDMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,12 +368,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\55459\\Documents\\Projeto\\SolucaoTicketManager\\Interface\\Login.cs",
               "RelativeDocumentMoniker": "Interface\\Login.cs",
               "ToolTip": "C:\\Users\\55459\\source\\repos\\SolucaoTicketManager\\Interface\\Login.cs [Design]",
-              "RelativeToolTip": "Interface\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\SolucaoTicketManager\\Interface\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T21:29:15.773Z"
             }
